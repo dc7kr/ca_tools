@@ -1,0 +1,8 @@
+*.pem
+*.pfx
+openssl.cnf
+serial
+*.old
+index.txt
+crl/
+

@@ -1,0 +1,7 @@
+*.old 
+serial
+index.txt
+index.txt.attr
+certs/
+crl/
+crlnumber
